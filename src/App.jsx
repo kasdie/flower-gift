@@ -1,4 +1,4 @@
-```jsx
+
 import { useEffect, useState } from "react";
 import myPhoto from "./assets/myphoto.jpg";
 
