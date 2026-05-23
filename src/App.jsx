@@ -1,3 +1,4 @@
+```jsx
 import { useEffect, useState } from "react";
 import myPhoto from "./assets/myphoto.jpg";
 
@@ -64,7 +65,7 @@ export default function FlowerGiftGame() {
               marginBottom: "20px",
             }}
           >
-            Một Món Quà Nhỏ 🌸
+            helo bé iu 🌸
           </h1>
 
           <p
@@ -74,9 +75,9 @@ export default function FlowerGiftGame() {
               lineHeight: 1.8,
             }}
           >
-            Anh làm khu vườn nhỏ này...
+            Nhấn dô đây nhé...
             <br />
-            chỉ để tặng em một điều dễ thương hôm nay ✨
+            cho em cái này nè ✨
           </p>
 
           <button
@@ -92,21 +93,8 @@ export default function FlowerGiftGame() {
               cursor: "pointer",
             }}
           >
-            Nhấn để nhận hoa 💐
+            💐
           </button>
-
-          <div>
-            <img
-              src={myPhoto}
-              alt="gift"
-              style={{
-                width: "220px",
-                marginTop: "25px",
-                borderRadius: "24px",
-                boxShadow: "0 10px 25px rgba(0,0,0,0.2)",
-              }}
-            />
-          </div>
         </div>
       )}
 
@@ -141,7 +129,7 @@ export default function FlowerGiftGame() {
                   color: "#ff5fa2",
                 }}
               >
-                🌼 Một bó hoa dành cho em
+                Cho em 1 bông hoa nè 🌼
               </h2>
 
               <p
@@ -151,10 +139,21 @@ export default function FlowerGiftGame() {
                   lineHeight: 1.8,
                 }}
               >
-                Có thể anh không giỏi nói những điều lãng mạn...
+                Nhớ ngủ sớm đi nhé..
                 <br />
-                nhưng anh mong mỗi ngày của em đều nhẹ nhàng như khu vườn này ✨
+                Ngoan ngoãn với nhẹ nhàng với nhau hơn nhéee, iu em ✨
               </p>
+
+              <img
+                src={myPhoto}
+                alt="cute"
+                style={{
+                  width: "230px",
+                  marginTop: "25px",
+                  borderRadius: "24px",
+                  boxShadow: "0 10px 25px rgba(0,0,0,0.2)",
+                }}
+              />
             </div>
           )}
         </div>
@@ -162,3 +161,4 @@ export default function FlowerGiftGame() {
     </div>
   );
 }
+```
