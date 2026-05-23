@@ -93,7 +93,7 @@ export default function FlowerGiftGame() {
               cursor: "pointer",
             }}
           >
-            💐
+            🌼
           </button>
         </div>
       )}
@@ -129,7 +129,7 @@ export default function FlowerGiftGame() {
                   color: "#ff5fa2",
                 }}
               >
-                Cho em 1 bông hoa nè 🌼
+                Cho em 1 bông hoa nè 🍀
               </h2>
 
               <p
@@ -142,6 +142,8 @@ export default function FlowerGiftGame() {
                 Nhớ ngủ sớm đi nhé..
                 <br />
                 Ngoan ngoãn với nhẹ nhàng với nhau hơn nhéee, iu em ✨
+                <br />
+                em hong ngoan là anh đánh nó luon hehe
               </p>
 
               <img
